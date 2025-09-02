@@ -20,16 +20,6 @@ Una vez realizado eso vamos a poder trabajar con las distintas ramas, crear nuev
 
 ## Estructura del proyecto
 
-GameTracker/
-├── backend/               
-│   ├── controller
-│   ├── service
-│   └── ...
-├── frontend/gameTracker/  
-│   ├── src
-│   └── ...   
-└── README.md        
-
 El proyecto consta en dos partes principales:
 
 **Backend (Go):** Lógica, conexión a la base de datos y endpoints de la API.
