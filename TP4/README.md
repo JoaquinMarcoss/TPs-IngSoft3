@@ -16,7 +16,7 @@ Este proyecto está organizado en dos carpetas principales:
 - /frontend/gameTracker 
 - /backend 
 
-##### Frontend
+#### Frontend
 Los comandos son los siguientes: 
 - cd frontend/gameTracker
 - npm install
@@ -24,7 +24,7 @@ Los comandos son los siguientes:
 
 La aplicación va a abrir en: http://localhost:5173
 
-##### Backend
+#### Backend
 Los comandos son los siguientes: 
 - cd backend
 - go mod tidy
