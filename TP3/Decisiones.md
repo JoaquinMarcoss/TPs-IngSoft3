@@ -6,10 +6,7 @@ Acceso al proyecto: https://dev.azure.com/joaquinmv03/GameTracker
 
 ## Configuración Inicial
 
-Vamos a crear el proyecto en base a la idea de aplicación y el repositorio utilizado para el trabajo práctico N°2, llamado Game Tracker. 
-La organización que utilizaremos y el proyecto a crear sera el siguiente: 
-
-Ahora procedemos con la creación del proyecto: 
+Vamos a crear el proyecto en base a la idea de aplicación y el repositorio utilizado para el trabajo práctico N°2, llamado Game Tracker. Ahora procedemos con la creación del proyecto: 
 
 - Organización: **Joaquinmv03**  
 - Proyecto: **GameTracker** 
