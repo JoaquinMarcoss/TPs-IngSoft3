@@ -24,7 +24,7 @@ La aplicación cuenta frontend en React + TypeScript + Vite y backend en Go.
 
 --- 
 
-## 🧱 Stack Tecnológico
+## Stack Tecnológico
 
 | Componente                    | Tecnología                | Justificación                                                                                                                                                                   |
 | ----------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
